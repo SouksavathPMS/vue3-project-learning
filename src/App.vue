@@ -1,5 +1,5 @@
 <script setup>
-import GithubUsersSearch from './components/GithubUsersSearch.vue'
+import WikiCloneComponent from './components/WikiCloneComponent.vue'
 </script>
 
 <template>
@@ -11,5 +11,6 @@ import GithubUsersSearch from './components/GithubUsersSearch.vue'
   <!-- <PasswordGenerator /> -->
   <!-- <ProgressSteps /> -->
   <!-- <DadJokes /> -->
-  <GithubUsersSearch />
+  <!-- <GithubUsersSearch /> -->
+  <WikiCloneComponent />
 </template>
