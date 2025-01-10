@@ -1,5 +1,5 @@
 <script setup>
-import ProgressSteps from './components/ProgressSteps.vue'
+import DadJokes from './components/DadJokes.vue'
 </script>
 
 <template>
@@ -9,5 +9,6 @@ import ProgressSteps from './components/ProgressSteps.vue'
   <!-- <AccordionComponent /> -->
   <!-- <FormValidation /> -->
   <!-- <PasswordGenerator /> -->
-  <ProgressSteps />
+  <!-- <ProgressSteps /> -->
+  <DadJokes />
 </template>
