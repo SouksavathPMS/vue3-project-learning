@@ -32,7 +32,7 @@ const clearDisplay = () => {
 <template>
   <div>
     <div class="calculator">
-      <input v-model="display" :class="displayClass" readonly />
+      <input v-model="display" :class="displayClass" class="display" readonly />
 
       <div class="buttons">
         <button @click="appendToDisplay('7')">7</button>
