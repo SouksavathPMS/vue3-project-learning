@@ -1,5 +1,5 @@
 <script setup>
-import FormValidation from './components/FormValidation.vue'
+import PasswordGenerator from './components/PasswordGenerator.vue'
 </script>
 
 <template>
@@ -7,5 +7,6 @@ import FormValidation from './components/FormValidation.vue'
   <!-- <RandomQuoteGenerator /> -->
   <!-- <AmazingCalculator /> -->
   <!-- <AccordionComponent /> -->
-  <FormValidation />
+  <!-- <FormValidation /> -->
+  <PasswordGenerator />
 </template>
