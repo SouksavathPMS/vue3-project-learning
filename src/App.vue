@@ -1,5 +1,5 @@
 <script setup>
-import DadJokes from './components/DadJokes.vue'
+import GithubUsersSearch from './components/GithubUsersSearch.vue'
 </script>
 
 <template>
@@ -10,5 +10,6 @@ import DadJokes from './components/DadJokes.vue'
   <!-- <FormValidation /> -->
   <!-- <PasswordGenerator /> -->
   <!-- <ProgressSteps /> -->
-  <DadJokes />
+  <!-- <DadJokes /> -->
+  <GithubUsersSearch />
 </template>
