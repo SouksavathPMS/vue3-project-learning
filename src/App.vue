@@ -1,5 +1,5 @@
 <script setup>
-import PasswordGenerator from './components/PasswordGenerator.vue'
+import ProgressSteps from './components/ProgressSteps.vue'
 </script>
 
 <template>
@@ -8,5 +8,6 @@ import PasswordGenerator from './components/PasswordGenerator.vue'
   <!-- <AmazingCalculator /> -->
   <!-- <AccordionComponent /> -->
   <!-- <FormValidation /> -->
-  <PasswordGenerator />
+  <!-- <PasswordGenerator /> -->
+  <ProgressSteps />
 </template>
